@@ -1,2 +1,2 @@
 // The version of the library:
-$wgMwEmbedVersion = '2.51.rc1';
+$wgMwEmbedVersion = '2.51.rc2';
