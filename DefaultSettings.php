@@ -3,7 +3,7 @@ code code code
 
 
 // The version of the library:
-$wgMwEmbedVersion = '2.52.rc22';
+$wgMwEmbedVersion = '2.52.rc23';
 
 code code code
 
