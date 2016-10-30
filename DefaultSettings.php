@@ -4,7 +4,7 @@ ssssfffffffffffff
 in the 2.52 branch!!!
 
 // The version of the library:
-$wgMwEmbedVersion = '2.52.rc100';
+$wgMwEmbedVersion = '2.52.rc101';
 
 code code code
 
