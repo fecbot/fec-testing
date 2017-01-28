@@ -5,7 +5,7 @@ fgfgg
 // The version of the library:
 $wgMwEmbedVersion = '2.52.rc91';
 
-code code code
+code code codeFFF
 dsdsdsd
 code code code
 asdasdasdFDFDFDF
