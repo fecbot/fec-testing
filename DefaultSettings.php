@@ -3,7 +3,7 @@ code code code
 ssss
 fgfgg
 // The version of the library:
-$wgMwEmbedVersion = '2.52.rc94';
+$wgMwEmbedVersion = '2.52.rc95';
 
 code code codeFFF
 dsdsdsd
